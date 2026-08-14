@@ -1,0 +1,5 @@
+- insert:
+    - id: shop-assistant
+      name: dsh-shop-assistant
+      config:
+        kbRelativeDir: kb/sample

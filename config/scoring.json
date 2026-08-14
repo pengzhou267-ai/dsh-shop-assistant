@@ -1,0 +1,17 @@
+{
+  "defaultCommissionRate": 0.05,
+  "defaultExtraCostRate": 0.08,
+  "weights": {
+    "demand": 20,
+    "competition": 20,
+    "margin": 25,
+    "opsDifficulty": 10,
+    "risk": 15,
+    "timing": 10
+  },
+  "decision": {
+    "stronglyRecommendMin": 75,
+    "cautionMin": 55
+  },
+  "_comment": "Copy values into cordis plugin config or edit DEFAULT_SCORING in src/scoring.ts. See docs/EXTENDING.md."
+}
