@@ -1,6 +1,6 @@
 {
   "name": "dsh-shop-assistant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DeepSeek Harness plugin for ecommerce operators: CSV batch tools, reproducible scoring, Chinese skills and store policy KB.",
   "type": "module",
   "main": "./lib/index.js",
